@@ -32,4 +32,3 @@ jobs:
           # CSS Overrides
           extras_css: |
             div.field { color: white !important; }
-            h2.field { color: blue !important; }
