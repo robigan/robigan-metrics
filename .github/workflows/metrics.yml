@@ -32,3 +32,5 @@ jobs:
           # CSS Overrides
           extras_css: |
             div.field { color: white !important; }
+            svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-align: center !important; flex-direction: column-reverse !important; }
+            
