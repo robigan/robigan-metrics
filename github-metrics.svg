@@ -1535,7 +1535,7 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2021, 19:00:48 (timezone Europe/Rome) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 5 Nov 2021, 19:18:45 (timezone Europe/Rome) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
