@@ -1367,8 +1367,8 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1388,7 +1388,7 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
           </h2>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            297 Commits
+            305 Commits
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1499,14 +1499,14 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.97297931367822" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="250.97297931367822" y="0" width="143.51835651364036" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="394.4913358273186" y="0" width="18.127758564889078" height="8" fill="#a86454"/>
-                    <rect mask="url(#languages-bar)" x="412.61909439220767" y="0" width="14.460469579645235" height="8" fill="#a53b70"/>
-                    <rect mask="url(#languages-bar)" x="427.0795639718529" y="0" width="12.237082178557852" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="439.3166461504108" y="0" width="10.744422098763513" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="450.0610682491743" y="0" width="7.281918795198772" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="457.3429870443731" y="0" width="2.6570129556269424" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.88394371594248" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="249.88394371594248" y="0" width="143.0616149264329" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="392.9455586423754" y="0" width="18.070067678367153" height="8" fill="#a86454"/>
+                    <rect mask="url(#languages-bar)" x="411.0156263207425" y="0" width="14.41444969767324" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="425.4300760184157" y="0" width="12.46448435395617" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="437.89456037237187" y="0" width="12.198138140507277" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.09269851287917" y="0" width="7.258744371876004" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="457.35144288475516" y="0" width="2.6485571152448197" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1526,12 +1526,12 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
                 Sass
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Python
-              </div>
-                    <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
+              </div>
+                    <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Python
               </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -1545,7 +1545,7 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2021, 08:32:22 (timezone Europe/Rome) with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 12 Nov 2021, 08:38:51 (timezone Europe/Rome) with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
