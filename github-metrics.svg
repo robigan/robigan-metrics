@@ -44,7 +44,7 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -70,7 +70,7 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            497 Commits
+                            500 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -220,14 +220,14 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.00955636357764" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="304.00955636357764" y="0" width="109.54175460969438" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.55131097327205" y="0" width="21.25750122077702" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="434.80881219404904" y="0" width="12.051672161844765" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="446.8604843558938" y="0" width="5.880109607616034" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.7405939635098" y="0" width="4.690164774630437" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.43075873814024" y="0" width="1.793270996355829" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="459.22402973449607" y="0" width="0.7759702655038682" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.13013916754244" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="306.13013916754244" y="0" width="108.05260978949714" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="414.1827489570396" y="0" width="20.968520110824496" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="435.1512690678641" y="0" width="11.887837966943728" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.03910703480784" y="0" width="5.800173561351549" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.8392805961594" y="0" width="4.626405210025158" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.4656858061846" y="0" width="1.768892710423235" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="459.23457851660777" y="0" width="0.7654214833922486" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -282,7 +282,7 @@ svg foreignObject div.items-wrapper footer { margin-top: 0px !important; text-al
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2022, 14:11:18 (timezone Europe/Rome) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 Jun 2022, 20:08:37 (timezone Europe/Rome) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
